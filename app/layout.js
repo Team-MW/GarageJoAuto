@@ -10,6 +10,15 @@ export const metadata = {
     locale: "fr_FR",
     type: "website",
   },
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/icon.png', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-icon.png' },
+    ],
+  },
 };
 
 export default function RootLayout({ children }) {

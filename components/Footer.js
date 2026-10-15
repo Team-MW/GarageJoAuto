@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Brand info */}
           <div className="lg:col-span-4 space-y-4">
             <div className="bg-white p-3 rounded-xl inline-block">
-              <div className="relative h-12 w-36">
+              <div className="relative h-14 w-40">
                 <Image
                   src="/logo.png"
                   alt="Garage Jo'Auto Solutions"

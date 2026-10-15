@@ -90,8 +90,8 @@ export default function Hero() {
               <div className="relative rounded-2xl bg-gradient-to-b from-slate-800/90 to-slate-900/90 border border-slate-700/80 p-6 sm:p-8 backdrop-blur shadow-2xl">
                 
                 {/* Logo Showcasing */}
-                <div className="bg-white rounded-xl p-6 sm:p-8 shadow-inner flex items-center justify-center mb-6">
-                  <div className="relative w-full h-28 sm:h-32">
+                <div className="bg-white rounded-xl p-5 sm:p-7 shadow-inner flex items-center justify-center mb-6">
+                  <div className="relative w-full h-32 sm:h-36">
                     <Image
                       src="/logo.png"
                       alt="Jo'Auto Solutions Logo"
